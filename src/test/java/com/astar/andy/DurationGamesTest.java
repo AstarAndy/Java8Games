@@ -13,7 +13,7 @@ public class DurationGamesTest {
         Instant startedAt = Instant.now();
         DurationGames dg = new DurationGames();
         dg.forceDelayOf(TimeUnit.SECONDS, 5);
-        
+
 
     }
 
