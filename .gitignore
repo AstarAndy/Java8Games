@@ -19,6 +19,9 @@
 # Maven
 target/
 
+#gradle
+out/
+
 # IntelliJ project files
 *.iml
 *.iws
